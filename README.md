@@ -1,2 +1,2 @@
 # PHP-Project---PentaStagiu
-PHP + Laravel 
+PHP Language + Laravel Framework
